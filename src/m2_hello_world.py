@@ -59,7 +59,7 @@ print('Hello, World')
 #   Look at the Console to be sure that your string printed as expected.
 #
 ########################################################################
-print("my favorite number is", 10 + 7 )
+print("my favorite number is 17")
 ########################################################################
 #
 # DONE: 4.
