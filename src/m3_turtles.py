@@ -110,7 +110,7 @@ matt.forward(50)
 #
 ########################################################################
 penn = rg.SimpleTurtle('turtle')
-penn.pen = rg.Pen('pink', 40)
+penn.pen = rg.Pen('pink', 39)
 penn.speed = 11
 penn.forward(50)
 penn.right(90)
